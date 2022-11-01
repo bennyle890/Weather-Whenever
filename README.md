@@ -9,6 +9,8 @@ This is a weather dashboard that is able to give you the current weather for the
 An image of the WebPage can be found below! </br>
 ![WeatherWheneverPic](./assets/images/WeatherWhenever.png)
 
+Click [here](https://bennyle890.github.io/Weather-Whenever/) to access the deployed site.
+
   # Questions
   If you have any questions about the repository, please contact/email benny.le890@gmail.com <br />
   My GitHub profile is found at [GitHub Profile](https//GitHub.com/bennyle890)
